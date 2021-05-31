@@ -1,0 +1,114 @@
+PESO CO
+
+
+
+
+-12.049480177197182,-77.04082166333443,  -12.03720869376867,-77.02096551933427,  , algoInit:0.0015633s, dijkstra-routing:1.4301711s, path extraction: 303 micros;visited nodes sum: 828
+-12.049480177197182,-77.04082166333443,  -12.03720869376867,-77.02096551933427,  , algoInit:0.0176318s, astar|qairapproximator-routing:2.3779771s, path extraction: 300 micros;visited nodes sum: 828
+-12.040408240051763,-77.03942267460242,  -12.04954075666327,-77.02021877786626,  , algoInit:1.59E-5s, dijkstra-routing:5.3119316s, path extraction: 101 micros;visited nodes sum: 3146
+-12.040408240051763,-77.03942267460242,  -12.04954075666327,-77.02021877786626,  , algoInit:0.014389401s, astar|qairapproximator-routing:7.496191s, path extraction: 128 micros;visited nodes sum: 3146
+-12.057738746548099,-77.03084382993536,  -12.059260348737562,-77.0408688999592,  , algoInit:1.44E-5s, dijkstra-routing:5.5840917s, path extraction: 86 micros;visited nodes sum: 3354
+-12.057738746548099,-77.03084382993536,  -12.059260348737562,-77.0408688999592,  , algoInit:0.0179074s, astar|qairapproximator-routing:7.93466s, path extraction: 74 micros;visited nodes sum: 3354
+-12.045599867509862,-77.02913211442848,  -12.049321680261924,-77.03546820460441,  , algoInit:1.34E-5s, dijkstra-routing:3.443483s, path extraction: 68 micros;visited nodes sum: 2431
+-12.045599867509862,-77.02913211442848,  -12.049321680261924,-77.03546820460441,  , algoInit:0.0148672s, astar|qairapproximator-routing:5.4964805s, path extraction: 54 micros;visited nodes sum: 2431
+-12.048983529633976,-77.03182661178947,  -12.045367036326748,-77.04176810578429,  , algoInit:3.18E-5s, dijkstra-routing:7.5440087s, path extraction: 18 micros;visited nodes sum: 4570
+-12.048983529633976,-77.03182661178947,  -12.045367036326748,-77.04176810578429,  , algoInit:0.014339499s, astar|qairapproximator-routing:11.422117s, path extraction: 19 micros;visited nodes sum: 4570
+-12.035327753665237,-77.05612108294812,  -12.044385235004814,-77.03241011551283,  , algoInit:1.31E-5s, dijkstra-routing:1.2482504s, path extraction: 27 micros;visited nodes sum: 667
+-12.035327753665237,-77.05612108294812,  -12.044385235004814,-77.03241011551283,  , algoInit:0.0134314s, astar|qairapproximator-routing:1.8941888s, path extraction: 42 micros;visited nodes sum: 667
+-12.048165526611545,-77.0135110916219,  -12.056465319154686,-77.00501432790637,  , algoInit:1.4E-5s, dijkstra-routing:0.94721705s, path extraction: 57 micros;visited nodes sum: 591
+-12.048165526611545,-77.0135110916219,  -12.056465319154686,-77.00501432790637,  , algoInit:0.0135954s, astar|qairapproximator-routing:1.692598s, path extraction: 63 micros;visited nodes sum: 591
+-12.04780839187001,-77.01447239923847,  -12.043262666511808,-77.05412952252802,  , algoInit:1.1601E-5s, dijkstra-routing:7.801505s, path extraction: 75 micros;visited nodes sum: 4902
+-12.04780839187001,-77.01447239923847,  -12.043262666511808,-77.05412952252802,  , algoInit:0.013019699s, astar|qairapproximator-routing:11.531779s, path extraction: 42 micros;visited nodes sum: 4902
+-12.044653212072348,-77.00411553666125,  -12.038708222938649,-77.04008493845161,  , algoInit:1.25E-5s, dijkstra-routing:6.9798946s, path extraction: 101 micros;visited nodes sum: 4503
+-12.044653212072348,-77.00411553666125,  -12.038708222938649,-77.04008493845161,  , algoInit:0.0126935s, astar|qairapproximator-routing:11.382865s, path extraction: 72 micros;visited nodes sum: 4503
+-12.042184109611817,-77.05200989002269,  -12.054121844421491,-77.01528583203866,  , algoInit:3.14E-5s, dijkstra-routing:5.4033813s, path extraction: 52 micros;visited nodes sum: 3639
+-12.042184109611817,-77.05200989002269,  -12.054121844421491,-77.01528583203866,  , algoInit:0.014162199s, astar|qairapproximator-routing:8.97912s, path extraction: 65 micros;visited nodes sum: 3639
+
+
+PESO NO2
+
+
+
+
+
+-12.049480177197182,-77.04082166333443,  -12.03720869376867,-77.02096551933427,  , algoInit:1.1501E-5s, dijkstra-routing:1.4283706s, path extraction: 88 micros;visited nodes sum: 827
+-12.049480177197182,-77.04082166333443,  -12.03720869376867,-77.02096551933427,  , algoInit:0.0115722s, astar|qairapproximator-routing:2.0771687s, path extraction: 36 micros;visited nodes sum: 827
+-12.040408240051763,-77.03942267460242,  -12.04954075666327,-77.02021877786626,  , algoInit:1.2701E-5s, dijkstra-routing:4.9818645s, path extraction: 38 micros;visited nodes sum: 3349
+-12.040408240051763,-77.03942267460242,  -12.04954075666327,-77.02021877786626,  , algoInit:0.0140304s, astar|qairapproximator-routing:8.221336s, path extraction: 32 micros;visited nodes sum: 3349
+-12.057738746548099,-77.03084382993536,  -12.059260348737562,-77.0408688999592,  , algoInit:1.16E-5s, dijkstra-routing:4.730396s, path extraction: 32 micros;visited nodes sum: 3237
+-12.057738746548099,-77.03084382993536,  -12.059260348737562,-77.0408688999592,  , algoInit:0.013976901s, astar|qairapproximator-routing:7.1320143s, path extraction: 36 micros;visited nodes sum: 3237
+-12.045599867509862,-77.02913211442848,  -12.049321680261924,-77.03546820460441,  , algoInit:1.47E-5s, dijkstra-routing:3.397137s, path extraction: 17 micros;visited nodes sum: 2431
+-12.045599867509862,-77.02913211442848,  -12.049321680261924,-77.03546820460441,  , algoInit:0.0131365s, astar|qairapproximator-routing:5.919799s, path extraction: 20 micros;visited nodes sum: 2431
+-12.048983529633976,-77.03182661178947,  -12.045367036326748,-77.04176810578429,  , algoInit:1.22E-5s, dijkstra-routing:7.176632s, path extraction: 22 micros;visited nodes sum: 4837
+-12.048983529633976,-77.03182661178947,  -12.045367036326748,-77.04176810578429,  , algoInit:0.0140214s, astar|qairapproximator-routing:11.78009s, path extraction: 18 micros;visited nodes sum: 4837
+-12.035327753665237,-77.05612108294812,  -12.044385235004814,-77.03241011551283,  , algoInit:1.25E-5s, dijkstra-routing:1.7851155s, path extraction: 29 micros;visited nodes sum: 985
+-12.035327753665237,-77.05612108294812,  -12.044385235004814,-77.03241011551283,  , algoInit:0.012630701s, astar|qairapproximator-routing:2.9024398s, path extraction: 23 micros;visited nodes sum: 985
+-12.048165526611545,-77.0135110916219,  -12.056465319154686,-77.00501432790637,  , algoInit:3.7401E-5s, dijkstra-routing:0.86071736s, path extraction: 37 micros;visited nodes sum: 591
+-12.048165526611545,-77.0135110916219,  -12.056465319154686,-77.00501432790637,  , algoInit:0.0164937s, astar|qairapproximator-routing:1.7919283s, path extraction: 34 micros;visited nodes sum: 591
+-12.04780839187001,-77.01447239923847,  -12.043262666511808,-77.05412952252802,  , algoInit:1.2299E-5s, dijkstra-routing:7.345781s, path extraction: 72 micros;visited nodes sum: 4773
+-12.04780839187001,-77.01447239923847,  -12.043262666511808,-77.05412952252802,  , algoInit:0.0117757s, astar|qairapproximator-routing:11.317016s, path extraction: 55 micros;visited nodes sum: 4773
+-12.044653212072348,-77.00411553666125,  -12.038708222938649,-77.04008493845161,  , algoInit:1.27E-5s, dijkstra-routing:6.8319554s, path extraction: 123 micros;visited nodes sum: 4482
+-12.044653212072348,-77.00411553666125,  -12.038708222938649,-77.04008493845161,  , algoInit:0.0118264s, astar|qairapproximator-routing:11.891842s, path extraction: 48 micros;visited nodes sum: 4482
+-12.042184109611817,-77.05200989002269,  -12.054121844421491,-77.01528583203866,  , algoInit:1.2901E-5s, dijkstra-routing:5.1016617s, path extraction: 34 micros;visited nodes sum: 3452
+-12.042184109611817,-77.05200989002269,  -12.054121844421491,-77.01528583203866,  , algoInit:0.0138986s, astar|qairapproximator-routing:8.7732935s, path extraction: 28 micros;visited nodes sum: 3452
+
+
+
+
+PESO PM10
+
+
+
+-12.049480177197182,-77.04082166333443,  -12.03720869376867,-77.02096551933427,  , algoInit:1.22E-5s, dijkstra-routing:1.0917952s, path extraction: 158 micros;visited nodes sum: 695
+-12.049480177197182,-77.04082166333443,  -12.03720869376867,-77.02096551933427,  , algoInit:0.011912099s, astar|qairapproximator-routing:2.9031422s, path extraction: 60 micros;visited nodes sum: 695
+-12.040408240051763,-77.03942267460242,  -12.04954075666327,-77.02021877786626,  , algoInit:1.63E-5s, dijkstra-routing:1.100089s, path extraction: 34 micros;visited nodes sum: 641
+-12.040408240051763,-77.03942267460242,  -12.04954075666327,-77.02021877786626,  , algoInit:0.0458222s, astar|qairapproximator-routing:1.8406148s, path extraction: 23 micros;visited nodes sum: 641
+-12.057738746548099,-77.03084382993536,  -12.059260348737562,-77.0408688999592,  , algoInit:1.5101E-5s, dijkstra-routing:5.0066833s, path extraction: 30 micros;visited nodes sum: 3441
+-12.057738746548099,-77.03084382993536,  -12.059260348737562,-77.0408688999592,  , algoInit:0.012668201s, astar|qairapproximator-routing:8.149969s, path extraction: 36 micros;visited nodes sum: 3441
+-12.045599867509862,-77.02913211442848,  -12.049321680261924,-77.03546820460441,  , algoInit:1.22E-5s, dijkstra-routing:3.3758657s, path extraction: 15 micros;visited nodes sum: 2431
+-12.045599867509862,-77.02913211442848,  -12.049321680261924,-77.03546820460441,  , algoInit:0.07927231s, astar|qairapproximator-routing:5.46327s, path extraction: 16 micros;visited nodes sum: 2431
+-12.048983529633976,-77.03182661178947,  -12.045367036326748,-77.04176810578429,  , algoInit:1.2499E-5s, dijkstra-routing:7.6386375s, path extraction: 17 micros;visited nodes sum: 4983
+-12.048983529633976,-77.03182661178947,  -12.045367036326748,-77.04176810578429,  , algoInit:0.013089201s, astar|qairapproximator-routing:12.489353s, path extraction: 42 micros;visited nodes sum: 4983
+-12.035327753665237,-77.05612108294812,  -12.044385235004814,-77.03241011551283,  , algoInit:1.1999E-5s, dijkstra-routing:0.9449138s, path extraction: 21 micros;visited nodes sum: 563
+-12.035327753665237,-77.05612108294812,  -12.044385235004814,-77.03241011551283,  , algoInit:0.0120669s, astar|qairapproximator-routing:1.576853s, path extraction: 23 micros;visited nodes sum: 563
+-12.048165526611545,-77.0135110916219,  -12.056465319154686,-77.00501432790637,  , algoInit:1.1601E-5s, dijkstra-routing:0.8622613s, path extraction: 39 micros;visited nodes sum: 591
+-12.048165526611545,-77.0135110916219,  -12.056465319154686,-77.00501432790637,  , algoInit:0.0128486s, astar|qairapproximator-routing:1.6329317s, path extraction: 55 micros;visited nodes sum: 591
+-12.04780839187001,-77.01447239923847,  -12.043262666511808,-77.05412952252802,  , algoInit:1.2699E-5s, dijkstra-routing:7.1457286s, path extraction: 35 micros;visited nodes sum: 4678
+-12.04780839187001,-77.01447239923847,  -12.043262666511808,-77.05412952252802,  , algoInit:0.012569699s, astar|qairapproximator-routing:11.741788s, path extraction: 83 micros;visited nodes sum: 4678
+-12.044653212072348,-77.00411553666125,  -12.038708222938649,-77.04008493845161,  , algoInit:2.63E-5s, dijkstra-routing:6.9088783s, path extraction: 66 micros;visited nodes sum: 4585
+-12.044653212072348,-77.00411553666125,  -12.038708222938649,-77.04008493845161,  , algoInit:0.0125626s, astar|qairapproximator-routing:11.648507s, path extraction: 51 micros;visited nodes sum: 4585
+-12.042184109611817,-77.05200989002269,  -12.054121844421491,-77.01528583203866,  , algoInit:1.23E-5s, dijkstra-routing:1.5197197s, path extraction: 37 micros;visited nodes sum: 923
+-12.042184109611817,-77.05200989002269,  -12.054121844421491,-77.01528583203866,  , algoInit:0.012435101s, astar|qairapproximator-routing:2.6842897s, path extraction: 69 micros;visited nodes sum: 923
+
+
+
+
+PESO PM25
+
+
+-12.049480177197182,-77.04082166333443,  -12.03720869376867,-77.02096551933427,  , algoInit:3.02E-5s, dijkstra-routing:1.3702681s, path extraction: 50 micros;visited nodes sum: 822
+-12.049480177197182,-77.04082166333443,  -12.03720869376867,-77.02096551933427,  , algoInit:0.0129276s, astar|qairapproximator-routing:2.2986248s, path extraction: 45 micros;visited nodes sum: 822
+-12.040408240051763,-77.03942267460242,  -12.04954075666327,-77.02021877786626,  , algoInit:1.19E-5s, dijkstra-routing:1.0676734s, path extraction: 28 micros;visited nodes sum: 641
+-12.040408240051763,-77.03942267460242,  -12.04954075666327,-77.02021877786626,  , algoInit:0.0116601s, astar|qairapproximator-routing:1.9741379s, path extraction: 12 micros;visited nodes sum: 641
+-12.057738746548099,-77.03084382993536,  -12.059260348737562,-77.0408688999592,  , algoInit:1.2299E-5s, dijkstra-routing:5.0362825s, path extraction: 19 micros;visited nodes sum: 3445
+-12.057738746548099,-77.03084382993536,  -12.059260348737562,-77.0408688999592,  , algoInit:0.0117469s, astar|qairapproximator-routing:8.386866s, path extraction: 21 micros;visited nodes sum: 3445
+-12.045599867509862,-77.02913211442848,  -12.049321680261924,-77.03546820460441,  , algoInit:3.26E-5s, dijkstra-routing:3.3913417s, path extraction: 12 micros;visited nodes sum: 2431
+-12.045599867509862,-77.02913211442848,  -12.049321680261924,-77.03546820460441,  , algoInit:0.011367999s, astar|qairapproximator-routing:5.4525666s, path extraction: 25 micros;visited nodes sum: 2431
+-12.048983529633976,-77.03182661178947,  -12.045367036326748,-77.04176810578429,  , algoInit:3.47E-5s, dijkstra-routing:7.3415875s, path extraction: 11 micros;visited nodes sum: 4961
+-12.048983529633976,-77.03182661178947,  -12.045367036326748,-77.04176810578429,  , algoInit:0.0117441s, astar|qairapproximator-routing:11.568404s, path extraction: 26 micros;visited nodes sum: 4961
+-12.035327753665237,-77.05612108294812,  -12.044385235004814,-77.03241011551283,  , algoInit:1.16E-5s, dijkstra-routing:0.937129s, path extraction: 21 micros;visited nodes sum: 564
+-12.035327753665237,-77.05612108294812,  -12.044385235004814,-77.03241011551283,  , algoInit:0.0121384s, astar|qairapproximator-routing:1.6320113s, path extraction: 25 micros;visited nodes sum: 564
+-12.048165526611545,-77.0135110916219,  -12.056465319154686,-77.00501432790637,  , algoInit:1.21E-5s, dijkstra-routing:0.8286855s, path extraction: 26 micros;visited nodes sum: 591
+-12.048165526611545,-77.0135110916219,  -12.056465319154686,-77.00501432790637,  , algoInit:0.011798399s, astar|qairapproximator-routing:1.7158928s, path extraction: 50 micros;visited nodes sum: 591
+-12.04780839187001,-77.01447239923847,  -12.043262666511808,-77.05412952252802,  , algoInit:1.51E-5s, dijkstra-routing:7.0344663s, path extraction: 24 micros;visited nodes sum: 4732
+-12.04780839187001,-77.01447239923847,  -12.043262666511808,-77.05412952252802,  , algoInit:0.011330301s, astar|qairapproximator-routing:11.343674s, path extraction: 22 micros;visited nodes sum: 4732
+-12.044653212072348,-77.00411553666125,  -12.038708222938649,-77.04008493845161,  , algoInit:1.1999E-5s, dijkstra-routing:6.733396s, path extraction: 36 micros;visited nodes sum: 4481
+-12.044653212072348,-77.00411553666125,  -12.038708222938649,-77.04008493845161,  , algoInit:0.0125812s, astar|qairapproximator-routing:10.848004s, path extraction: 33 micros;visited nodes sum: 4481
+-12.042184109611817,-77.05200989002269,  -12.054121844421491,-77.01528583203866,  , algoInit:1.27E-5s, dijkstra-routing:2.8241234s, path extraction: 26 micros;visited nodes sum: 1837
+-12.042184109611817,-77.05200989002269,  -12.054121844421491,-77.01528583203866,  , algoInit:0.011880999s, astar|qairapproximator-routing:4.8718634s, path extraction: 24 micros;visited nodes sum: 1837
+-12.049645,-77.048321,  -12.04612,-77.038794,  , algoInit:0.0025352s, astarbi|beeline-routing:0.0050045s, path extraction: 131 micros;visited nodes sum: 386
+-12.049645,-77.048321,  -12.04612,-77.038794,  , algoInit:0.0024885s, astarbi|beeline-routing:0.0049607s, path extraction: 131 micros;visited nodes sum: 386
+-12.049645,-77.048321,  -12.04612,-77.038794,  , algoInit:2.02E-5s, astarbi|beeline-routing:0.4038287s, path extraction: 94 micros;visited nodes sum: 170
+-12.049645,-77.048321,  -12.04612,-77.038794,  , algoInit:2.44E-5s, astarbi|beeline-routing:0.3450233s, path extraction: 107 micros;visited nodes sum: 156
+-12.049645,-77.048321,  -12.04612,-77.038794,  , algoInit:2.25E-5s, astarbi|beeline-routing:0.5047258s, path extraction: 53 micros;visited nodes sum: 220
+-12.049645,-77.048321,  -12.04612,-77.038794,  , algoInit:2.38E-5s, astarbi|beeline-routing:0.4867433s, path extraction: 49 micros;visited nodes sum: 214
