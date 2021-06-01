@@ -2,7 +2,6 @@ target/
 *~
 *-gh/
 nbactions*.xml
-/config.yml
 build.xml
 queries.sh
 maven/
