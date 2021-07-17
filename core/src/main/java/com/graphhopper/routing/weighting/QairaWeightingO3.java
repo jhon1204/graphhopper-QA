@@ -66,7 +66,7 @@ public class QairaWeightingO3 extends AbstractWeighting {
         this.cellsDist= new HashMap<String,Double>();
         String realPath=System.getProperty("user.dir");
         //String fileName = "./sensors-config/" + MYSQL ".config";
-        String fileName = realPath+"\\sensors-config\\MYSQL.config";
+        String fileName = realPath+"/sensors-config/MYSQL.config";
         String host="";
         String user="";
         String password="";
